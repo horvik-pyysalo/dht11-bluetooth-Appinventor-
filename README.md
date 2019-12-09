@@ -41,4 +41,3 @@ you can to contacted me on discord:
 ⛧Hörvik Pyysalo 💜💛#0666
 
 
-Translated with www.DeepL.com/Translator (free version)
