@@ -6,11 +6,6 @@
 dht11 DHT11;
 
 // partie bluetooth
-
-#include <SoftwareSerial.h>   //Software Serial Port
-#define RxD         7 
-#define TxD        6
-#define DEBUG_ENABLED  1
 int val;
 int product ; 
  float f =0;
@@ -27,13 +22,7 @@ void setup() {
 
 // partie capteur 
 
-
- //partie bluetooth 
-  
-    pinMode(RxD, INPUT);
-    pinMode(TxD, OUTPUT);
-    setupBlueToothConnection(); // A ne pas enlever !!
-
+ 
 }
 
 void loop() {
@@ -51,38 +40,6 @@ h= DHT11.humidity, 2 ;
   Serial.print("Temperature (°f): ");
   Serial.println( f  ); // f°
 
-  //partie comunication 
 
-  blueToothSerial.print(c);
-  blueToothSerial.print(f);
-  blueToothSerial.print(h);
-  
-   
-  
- 
-  delay(2000);
 }
 }
-void setupBlueToothConnection()
-  {
-  
-  blueToothSerial.begin(9600);  
-  
-  blueToothSerial.print("AT");
-  delay(400); 
-
-  blueToothSerial.print("AT+DEFAULT");             // Restore all setup value to factory setup
-  delay(2000); 
-  
-  blueToothSerial.print("AT+rich1");    // set the bluetooth name as "SeeedBTSlave" ,the length of bluetooth name must less than 12 characters.
-  delay(400);
-  
-    blueToothSerial.print("AT+PIN0000");             // set the pair code to connect 
-  delay(400);
-  
-  blueToothSerial.print("AT+AUTH1");             //
-    delay(400);    
-
-    blueToothSerial.flush();
-
-} 
