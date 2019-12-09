@@ -1,23 +1,44 @@
-# dht11-bluetooth-Appventor ( french langage ) 
+# Dht11-bluetooth-Appventor ( French langage) 
 
-Recement j'ai crées une aplication qui marche en bluetooth et avec un module DHt 11
+Récemment j'ai créé une application qui marche en bluetooth et avec un module Dht 11 il a le principe de récupérer les donnés Du Dht 11 et de les renvoyer avec un ardu ino en bluetooth sur mon application 
 
-il a le principe de recuperer les donné Du Dht 11 et de les réenvoyer avec un arduino en bluetooth sur mon aplication 
-
-l'aplication ce forme comme ca: 
+l'application se forme comme ça; 
 
 ![like that](https://cdn.discordapp.com/attachments/619622990069628944/653674965576581140/Screenshot_20191209-201002.png)
 
-vous pouvez totalement changer "d'option d'affichage " , au lieux de passer par une interface sur votre telephone , vous pouvez tres bien utiliser un ecrans lcd 
+vous pouvez totalement changer "d'option d'affichage ", au lieu de passer par une interface sur votre téléphone, vous pouvez très bien utiliser un écran lcd 
 
-# vous trouverer dans ce repository
+## vous trouver dans ce repository
 
 * le code 
 * le shemas de cablage 
 * le code appinventor 
 
-# vous avez des question ? 
+## vous avez des question ? 
 
-vous pouvée de contactée sur discord : 
+vous pouvée me contactée sur discord : 
 ⛧Hörvik Pyysalo 💜💛#0666
 
+# Dht11-bluetooth-Appventor (english language) 
+
+Recently I created an application that works in bluetooth and with a Dht 11 module it has the principle of recovering the data of Dht 11 and sending them back with an arduous ino in bluetooth on my application 
+
+the application is formed like that; 
+
+![like that](https://cdn.discordapp.com/attachments/619622990069628944/653674965576581140/Screenshot_20191209-201002.png)
+
+you can totally change "display option", instead of using an interface on your phone, you can use an lcd screen 
+
+## find yourself in this repository
+
+* the code 
+* the wiring shemas 
+* the appinventor code 
+
+## do you have any questions? 
+
+you can to contacted me on discord: 
+⛧Hörvik Pyysalo 💜💛#0666
+
+
+Translated with www.DeepL.com/Translator (free version)
