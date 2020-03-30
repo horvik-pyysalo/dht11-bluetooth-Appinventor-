@@ -4,7 +4,7 @@ Récemment j'ai créé une application qui marche en bluetooth et avec un module
 
 l'application se forme comme ça; 
 
-![like that](https://discordapp.com/channels/619622989494747149/619622990069628944/694212739089957034)
+![like that] (https://discordapp.com/channels/619622989494747149/619622990069628944/694212739089957034)
 
 vous pouvez totalement changer "d'option d'affichage ", au lieu de passer par une interface sur votre téléphone, vous pouvez très bien utiliser un écran lcd 
 
@@ -25,7 +25,7 @@ Recently I created an application that works in bluetooth and with a Dht 11 modu
 
 the application is formed like that; 
 
-![like that](https://discordapp.com/channels/619622989494747149/619622990069628944/694212739089957034)
+![like that] (https://discordapp.com/channels/619622989494747149/619622990069628944/694212739089957034)
 
 you can totally change "display option", instead of using an interface on your phone, you can use an lcd screen 
 
